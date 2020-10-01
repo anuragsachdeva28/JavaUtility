@@ -16,7 +16,7 @@ public class JavaUtilityNewgenApplication {
 	}
 	@Scheduled(fixedRate = 1000)
 	static void printthis() {
-		System.out.println("I am printing this");
+		System.out.println("I am printing this");#Print
 	}
 
 }
